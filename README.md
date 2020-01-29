@@ -1,4 +1,9 @@
 # Tell Stories with Data
+
+## ASSIGNMENT 3
+
+[Assignment Critique and Reviz](DataViz3.md)
+
 ## DataViz2
 Assignment_Week_No.2, Jan 26, 2019
 In this activity, I learned how to work with web-based visualization tools and data. 
