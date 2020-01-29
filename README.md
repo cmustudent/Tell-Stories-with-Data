@@ -1,5 +1,9 @@
 # Tell Stories with Data
 
+## Assignment 2
+
+[Assginment Critique and Reviz](DataViz2.md)
+
 ## ASSIGNMENT 3
 
 [Assignment Critique and Reviz](DataViz3.md)
