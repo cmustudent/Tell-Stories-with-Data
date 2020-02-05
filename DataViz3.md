@@ -45,7 +45,7 @@ The Wireframing activity helped me to think of choosing the graph design that li
 
 The interviee reads news paper everyday, so she pocess a high level of insights in terms of evaluating the DataViz based on the News Article.   
 
-## Prgress of Design Change
+## Progress of Design Change
 * First, the major change the the DataViz was combinidng four graphes into one.  I decided to eliminate the one on the right top because it carries the same information, so I elminated redundancies to achieve minimal look. With these changes, the graph looks cleaner and simple.  The complicated data became more visually appealing data. <br>
 * Second, in order to fit the story of the article, I changed the title and subtitle of the graph.<br>
 * Thrid, I refere the [Timeline Chart in Tableau](https://www.absentdata.com/tableau/timeline-chart-in-tableau/) to create the timeline with the Tableau system.
