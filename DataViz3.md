@@ -55,4 +55,4 @@ Tadah!
 I'm 70% satisfied with the result.  I wish I had more time to refine the data especially combining two graphes into one.
 It will be a good self-explatory exercise to explore more about this unknown area. I hope you like my design, thanks for reading! <br>
 
-XO, Hannah ![image](hannah.jpg)
+XO, Hannah [source](https://www.linkedin.com/in/moonhannah/)
