@@ -10,7 +10,10 @@ Although the article(it was so fun to read) is pleasigly entertaining to read, I
 
 Original visualization: 
 ![image](trumpgraphsCJR.jpg)
-[source](https://www.cjr.org/special_report/trump-coverage-election-clinton.php)
+[
+"The Trump Conundrum
+Reporters" <br/> 
+struggled with how to write about one of the most unconventional presidential campaigns in US history. A new analysis shows why](https://www.cjr.org/special_report/trump-coverage-election-clinton.php)
 
 ## Personal Critique
 Here is my critique of the DataViz. 5 different graphs are in a small space they all carry different stories to tell.  It is good that the author has a lot to convey messages with data, but it got to fail to entice the reader's attention to focus on one focal point.  If I redesign the graph I would redraw as below; 
