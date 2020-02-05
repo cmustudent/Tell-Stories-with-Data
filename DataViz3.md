@@ -1,5 +1,6 @@
-### Assignment 3 & 4: Critique by Design
+# Assignment 3 & 4: Critique by Design
 
+## Why I choose this graph? 
 I am going to critique on a not so bad data visualization, but confusing to interpret the information at glance look written by Regina G. Lawrence and Amber E. Boydstun in Columbia Journalism Review about [The Trump Conundrum](https://www.cjr.org/special_report/trump-coverage-election-clinton.php). 
 
 First of all, I personally enjoy to read the article pretty much.  It was interesting to read the ironical impact of highly negative press in the media. I slapped my knee when I read the last sentence of the article. Here is the quote. "And in the age of the anti-hero, from Tony Soprano to Breaking Bad’s Walter White, just because we are repulsed by entertaining figures doesn’t mean we won’t vote for them."
