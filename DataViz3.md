@@ -6,7 +6,7 @@ First of all, I personally enjoy to read the article pretty much.  It was intere
 
 We have to admit that we were entertained by Donald Trump, now Mr.President, during his 1st presidential campain from 2016 to 2017. No one believed, may be tried not to believe, that an amature politician would become a president of the U.S. Most of us thought that he is a clown who entertains us and would go down to the back stage after the election was over becuase he was unconventional, silly, and even look ridiculous because of not so sophisticated non-political correctness language.  To make things worse, we were embrassed by his extravagant behaviors and treats toward women.  Most importantly, an opponent candidate was demonstrably more experienced and qualified than him. We all know who I am talking about, Mrs.Clinton.  
 
-Although the article(it was so fun to read) is pleasigly entertaining to read, I was disappointed when I saw the graphes(DataViz).  It was all over plaa futile attempt to support the text in a meaningful and somewhat 'interesting to the eye' manner, but it failed to impress.<br>
+Although the article(it was so fun to read) is pleasigly entertaining to read, I was disappointed when I saw the graphes(DataViz).  It was all over the places although it attempted to support the text in a meaningful and somewhat 'interesting to the eye' manner, but it failed to impress.<br>
 
 Original visualization: 
 ![image](trumpgraphsCJR.jpg)
